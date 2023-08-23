@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE), which allows you to f
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
 
-Happy calculating!
+**Happy calculating!**
 
 
 
