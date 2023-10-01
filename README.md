@@ -32,10 +32,6 @@ Welcome to the Simple Calculator GitHub repository! This repository contains a b
 
 Contributions are welcome! If you have ideas for improving the calculator program, feel free to open an issue or submit a pull request. Be sure to follow the repository's [Code of Conduct](CODE_OF_CONDUCT.md) when participating in discussions or contributing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), which allows you to freely use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
